@@ -1,5 +1,7 @@
 # Code Quality Aromatherapy Assistant (CQAA)
-
+<p align="center">
+  <img src="logo.png" alt="CQAA Logo" />
+</p>
 ##  Relax And Take A Breath Of Your Clean Code 
 The CQAA (Code Quality Aromatherapy Assistant) is a unqiue and ingenious tool that uses the art of aromatherapy together with code analysis. The tool analyzes your Github repo's code quality and generates a custom "Fragrance profile" based on many things including metrics, providing you with olfactory feedback in your code's health!
 ## Features
