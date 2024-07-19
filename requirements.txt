@@ -1,0 +1,5 @@
+PyGithub==1.55
+matplotlib==3.4.3
+seaborn==0.11.2
+radon==5.1.0
+numpy==1.21.2
